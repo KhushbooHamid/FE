@@ -1,0 +1,25 @@
+body {
+  overflow-x: hidden;
+}
+
+.home {
+  text-align: center;
+  padding: 40px;
+  background-image: url('https://w0.peakpx.com/wallpaper/990/831/HD-wallpaper-dark-blue-gradient-aurora-blue-background-colors-dark-dark-blue-gradient-plain-solid.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh; /* Set the height to 100% of the viewport height */
+  width: 100vw; /* Set the width to 100% of the viewport width */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+h1, h2{
+  color: white;
+  font-size: 36px;
+  margin-bottom: 30px;
+}

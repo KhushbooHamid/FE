@@ -1,0 +1,23 @@
+    .signup-options {
+    font-size: 18px;
+  }
+  
+  .signup-options button {
+    
+    background-color: #197fa1;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-right: 10px;
+    border-radius: 5px;
+  }
+  
+  .signup-options button:hover {
+    background-color: #007095;
+  }
+  
