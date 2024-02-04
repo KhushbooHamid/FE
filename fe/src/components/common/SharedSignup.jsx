@@ -112,7 +112,7 @@ const SharedSignup = ({ userType }) => {
                 name="yearsOfExperience"
                 value={formData.yearsOfExperience}
                 onChange={handleChange}
-                min={1}
+                min={0}
               />
             </div>
 
