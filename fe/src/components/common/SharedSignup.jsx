@@ -208,7 +208,7 @@ const SharedSignup = ({ userType }) => {
             Gender
           </label>
           <select
-            className="form-select"
+            className="form-control"
             id="gender"
             name="gender"
             value={formData.gender}
