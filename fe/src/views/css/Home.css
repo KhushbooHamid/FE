@@ -1,10 +1,10 @@
 body {
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 .home {
   text-align: center;
-  padding: 40px;
+  padding: 1px;
   background-image: url('https://w0.peakpx.com/wallpaper/990/831/HD-wallpaper-dark-blue-gradient-aurora-blue-background-colors-dark-dark-blue-gradient-plain-solid.jpg');
   background-size: cover;
   background-position: center;

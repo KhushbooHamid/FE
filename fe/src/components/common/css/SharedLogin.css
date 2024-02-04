@@ -1,6 +1,6 @@
 .shared-login {
     text-align: center;
-    padding: 40px;
+    padding: 1px;
     background-image: url('https://w0.peakpx.com/wallpaper/990/831/HD-wallpaper-dark-blue-gradient-aurora-blue-background-colors-dark-dark-blue-gradient-plain-solid.jpg');
     background-size: cover;
     background-position: center;
@@ -28,7 +28,7 @@
   }
   
   .form-control {
-    padding: 10px;
+    padding: 1px;
     border-radius: 4px;
     border: 1px solid #fff;
     background: white;

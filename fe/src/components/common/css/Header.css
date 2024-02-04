@@ -1,0 +1,12 @@
+.headerStyle {
+    background-color: #197fa1;
+    padding: 10px; /* Adjust the padding to reduce the height */
+    color: white;
+    text-align: center;
+  }
+  
+  .logoStyle {
+    text-decoration: none;
+    color: white;
+    margin: 0; /* Reset margin to remove default spacing */
+  }

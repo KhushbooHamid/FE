@@ -8,11 +8,12 @@ import DoctorLogin from "./components/doctor/DoctorLogin.jsx";
 import PatientLogin from "./components/patient/PatientLogin.jsx";
 import DoctorSignup from "./components/doctor/DoctorSignup.jsx"
 import PatientSignup from "./components/patient/PatientSignup.jsx"
-
+import Header from "./components/common/Header.jsx";
 
 const App = () => {
   return (
     <Router>
+      <Header/>
       <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/login" element={<Login />} />
